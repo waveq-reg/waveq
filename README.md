@@ -12,8 +12,8 @@ WaveQ Framework overview:
 To install from source and develop locally:
 
 ```bash
-git clone https://github.com/mit-han-lab/hardware-aware-transformers.git
-cd hardware-aware-transformers
+git clone https://github.com/waveq-reg/waveq.git
+cd waveq
 pip install --editable .
 ```
 
