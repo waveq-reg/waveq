@@ -1,0 +1,51 @@
+Looping ... i is set to 56
+BLEU4 = 34.67, 68.2/42.6/28.6/19.6 (BP=0.970, ratio=0.971, syslen=127313, reflen=131161)
+Looping ... i is set to 57
+BLEU4 = 34.78, 68.2/42.6/28.6/19.6 (BP=0.973, ratio=0.973, syslen=127656, reflen=131161)
+Looping ... i is set to 58
+BLEU4 = 34.30, 69.2/43.2/29.0/19.8 (BP=0.948, ratio=0.949, syslen=124537, reflen=131161)
+Looping ... i is set to 59
+Looping ... i is set to 59
+Looping ... i is set to 59
+Looping ... i is set to 60
+Looping ... i is set to 59
+Looping ... i is set to 60
+Looping ... i is set to 59
+Looping ... i is set to 60
+Looping ... i is set to 61
+Looping ... i is set to 59
+Looping ... i is set to 60
+Looping ... i is set to 59
+BLEU4 = 34.68, 68.5/42.8/28.8/19.8 (BP=0.965, ratio=0.965, syslen=126599, reflen=131161)
+Looping ... i is set to 60
+BLEU4 = 34.55, 68.1/42.5/28.5/19.5 (BP=0.971, ratio=0.971, syslen=127373, reflen=131161)
+Looping ... i is set to 61
+BLEU4 = 34.58, 69.0/43.2/29.1/20.0 (BP=0.953, ratio=0.954, syslen=125171, reflen=131161)
+Looping ... i is set to 62
+BLEU4 = 34.48, 68.8/43.0/28.9/19.8 (BP=0.956, ratio=0.956, syslen=125453, reflen=131161)
+Looping ... i is set to 63
+BLEU4 = 34.45, 68.7/42.9/28.8/19.7 (BP=0.958, ratio=0.959, syslen=125798, reflen=131161)
+Looping ... i is set to 64
+BLEU4 = 34.62, 68.4/42.6/28.6/19.6 (BP=0.968, ratio=0.969, syslen=127039, reflen=131161)
+Looping ... i is set to 65
+BLEU4 = 34.73, 68.0/42.4/28.5/19.5 (BP=0.975, ratio=0.976, syslen=127949, reflen=131161)
+Looping ... i is set to 66
+BLEU4 = 34.58, 68.4/42.7/28.7/19.6 (BP=0.965, ratio=0.966, syslen=126686, reflen=131161)
+Looping ... i is set to 67
+BLEU4 = 34.49, 68.9/43.1/29.0/19.9 (BP=0.954, ratio=0.955, syslen=125305, reflen=131161)
+Looping ... i is set to 68
+BLEU4 = 34.79, 68.2/42.6/28.7/19.7 (BP=0.973, ratio=0.973, syslen=127609, reflen=131161)
+Looping ... i is set to 69
+BLEU4 = 34.66, 68.8/43.1/29.0/19.9 (BP=0.959, ratio=0.960, syslen=125951, reflen=131161)
+Looping ... i is set to 70
+BLEU4 = 34.45, 68.5/42.7/28.6/19.6 (BP=0.963, ratio=0.964, syslen=126417, reflen=131161)
+Looping ... i is set to 71
+BLEU4 = 34.57, 68.4/42.7/28.7/19.6 (BP=0.965, ratio=0.966, syslen=126707, reflen=131161)
+Looping ... i is set to 72
+BLEU4 = 34.56, 68.7/43.0/28.9/19.9 (BP=0.958, ratio=0.959, syslen=125754, reflen=131161)
+Looping ... i is set to 73
+BLEU4 = 34.80, 68.6/42.9/28.9/19.8 (BP=0.965, ratio=0.966, syslen=126684, reflen=131161)
+Looping ... i is set to 74
+BLEU4 = 34.48, 68.4/42.7/28.7/19.6 (BP=0.963, ratio=0.964, syslen=126454, reflen=131161)
+Looping ... i is set to 75
+BLEU4 = 34.37, 68.3/42.5/28.5/19.5 (BP=0.966, ratio=0.966, syslen=126722, reflen=131161)

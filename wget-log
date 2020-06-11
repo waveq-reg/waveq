@@ -1,0 +1,178 @@
+HTTP request sent, awaiting response... 200 OK
+Length: 501404 (490K) [application/x-bzip2]
+Saving to: ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’
+
+
+
+2020-05-14 16:43:42 (1.05 KB/s) - Read error at byte 47832/501404 (Success). Retrying.
+
+--2020-05-14 16:43:43--  (try: 2)  https://dl.fbaipublicfiles.com/fairseq/data/wmt16.en-de.joined-dict.newstest2014.tar.bz2
+Connecting to dl.fbaipublicfiles.com (dl.fbaipublicfiles.com)|104.22.75.142|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 501404 (490K), 453572 (443K) remaining [application/x-bzip2]
+Saving to: ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’
+
+
+
+2020-05-14 16:59:19 (1002 B/s) - Read error at byte 83516/501404 (Success). Retrying.
+
+--2020-05-14 16:59:21--  (try: 3)  https://dl.fbaipublicfiles.com/fairseq/data/wmt16.en-de.joined-dict.newstest2014.tar.bz2
+Connecting to dl.fbaipublicfiles.com (dl.fbaipublicfiles.com)|104.22.75.142|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 501404 (490K), 417888 (408K) remaining [application/x-bzip2]
+Saving to: ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’
+
+wmt16.en-de.joined-dict.newstest2014.tar.  19%[++++++++++++++=>                                                                     ]  96.26K   146 B/s    eta 46m 3s wmt16.en-de.joined-dict.newstest2014.tar.  19%[++++++++++++++=>                                                                     ]  97.60K   159 B/s    eta 46m 3s wmt16.en-de.joined-dict.newstest2014.tar.  20%[++++++++++++++==>                                                                    ]  99.22K   172 B/s    eta 38m 42swmt16.en-de.joined-dict.newstest2014.tar.  20%[++++++++++++++==>                                                                    ] 101.89K   197 B/s    eta 38m 42swmt16.en-de.joined-dict.newstest2014.tar.  21%[++++++++++++++==>                                                                    ] 103.23K   186 B/s    eta 35m 25swmt16.en-de.joined-dict.newstest2014.tar.  22%[++++++++++++++====>                                                                  ] 112.58K   266 B/s    eta 35m 25swmt16.en-de.joined-dict.newstest2014.tar.  24%[++++++++++++++======>                                                                ] 121.56K   308 B/s    eta 20m 24swmt16.en-de.joined-dict.newstest2014.tar.  25%[++++++++++++++======>                                                                ] 125.57K   261 B/s    eta 23m 50swmt16.en-de.joined-dict.newstest2014.tar.  25%[++++++++++++++=======>                                                               ] 126.91K   233 B/s    eta 26m 36swmt16.en-de.joined-dict.newstest2014.tar.  26%[++++++++++++++=======>                                                               ] 128.25K   239 B/s    eta 26m 36swmt16.en-de.joined-dict.newstest2014.tar.  27%[++++++++++++++========>                                                              ] 133.60K   267 B/s    in 3m 20s  
+
+2020-05-14 17:17:45 (267 B/s) - Read error at byte 136802/501404 (Success). Retrying.
+
+--2020-05-14 17:17:48--  (try: 4)  https://dl.fbaipublicfiles.com/fairseq/data/wmt16.en-de.joined-dict.newstest2014.tar.bz2
+Connecting to dl.fbaipublicfiles.com (dl.fbaipublicfiles.com)|104.22.75.142|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 501404 (490K), 364602 (356K) remaining [application/x-bzip2]
+Saving to: ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’
+
+        [ skipping 100K ]
+   100K ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, ,,,....... ........   30% 69.0 =3m38s
+
+2020-05-14 17:36:27 (69.0 B/s) - Read error at byte 151861/501404 (Success). Retrying.
+
+--2020-05-14 17:36:31--  (try: 5)  https://dl.fbaipublicfiles.com/fairseq/data/wmt16.en-de.joined-dict.newstest2014.tar.bz2
+Connecting to dl.fbaipublicfiles.com (dl.fbaipublicfiles.com)|104.22.75.142|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 501404 (490K), 349543 (341K) remaining [application/x-bzip2]
+Saving to: ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’
+
+        [ skipping 100K ]
+   100K ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,.. 30% 7.74K 21m32s
+   150K ..                                                     31% 12.2K=6.7s
+
+2020-05-14 17:51:38 (680 B/s) - Read error at byte 156409/501404 (Success). Retrying.
+
+--2020-05-14 17:51:43--  (try: 6)  https://dl.fbaipublicfiles.com/fairseq/data/wmt16.en-de.joined-dict.newstest2014.tar.bz2
+Connecting to dl.fbaipublicfiles.com (dl.fbaipublicfiles.com)|104.22.75.142|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 501404 (490K), 344995 (337K) remaining [application/x-bzip2]
+Saving to: ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’
+
+        [ skipping 150K ]
+   150K ,,........ .......... .......... .                     36% 84.9 =5m42s
+
+2020-05-14 18:12:25 (84.9 B/s) - Read error at byte 185419/501404 (Success). Retrying.
+
+--2020-05-14 18:12:31--  (try: 7)  https://dl.fbaipublicfiles.com/fairseq/data/wmt16.en-de.joined-dict.newstest2014.tar.bz2
+Connecting to dl.fbaipublicfiles.com (dl.fbaipublicfiles.com)|104.22.75.142|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 501404 (490K), 315985 (309K) remaining [application/x-bzip2]
+Saving to: ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’
+
+        [ skipping 150K ]
+   150K ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, ,......... .......... 40%  938  13m55s
+   200K .......... .......... .......... .......... .......... 51%  166  21m2s
+   250K ..                                                     51% 4811G=6m3s
+
+2020-05-14 18:33:35 (202 B/s) - Read error at byte 258583/501404 (Success). Retrying.
+
+--2020-05-14 18:33:42--  (try: 8)  https://dl.fbaipublicfiles.com/fairseq/data/wmt16.en-de.joined-dict.newstest2014.tar.bz2
+Connecting to dl.fbaipublicfiles.com (dl.fbaipublicfiles.com)|104.22.75.142|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 501404 (490K), 242821 (237K) remaining [application/x-bzip2]
+Saving to: ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’
+
+        [ skipping 250K ]
+   250K ,,........ .......... .....                            56% 66.1 =5m57s
+
+2020-05-14 18:54:39 (66.1 B/s) - Read error at byte 282139/501404 (Success). Retrying.
+
+--2020-05-14 18:54:47--  (try: 9)  https://dl.fbaipublicfiles.com/fairseq/data/wmt16.en-de.joined-dict.newstest2014.tar.bz2
+Connecting to dl.fbaipublicfiles.com (dl.fbaipublicfiles.com)|104.22.75.142|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 501404 (490K), 219265 (214K) remaining [application/x-bzip2]
+Saving to: ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’
+
+        [ skipping 250K ]
+   250K ,,,,,,,,,, ,,,,,,,,,, ,,,,,..... .....                 58%  694 =14s
+
+2020-05-14 19:10:02 (694 B/s) - Read error at byte 292163/501404 (Success). Retrying.
+
+--2020-05-14 19:10:11--  (try:10)  https://dl.fbaipublicfiles.com/fairseq/data/wmt16.en-de.joined-dict.newstest2014.tar.bz2
+Connecting to dl.fbaipublicfiles.com (dl.fbaipublicfiles.com)|104.22.75.142|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 501404 (490K), 209241 (204K) remaining [application/x-bzip2]
+Saving to: ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’
+
+        [ skipping 250K ]
+   250K ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, ,,,,,.....            59% 51.8 =1m46s
+
+2020-05-14 19:26:57 (51.8 B/s) - Read error at byte 297639/501404 (Success). Retrying.
+
+--2020-05-14 19:27:07--  (try:11)  https://dl.fbaipublicfiles.com/fairseq/data/wmt16.en-de.joined-dict.newstest2014.tar.bz2
+Connecting to dl.fbaipublicfiles.com (dl.fbaipublicfiles.com)|104.22.75.142|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 501404 (490K), 203765 (199K) remaining [application/x-bzip2]
+Saving to: ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’
+
+        [ skipping 250K ]
+   250K ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, .......... 61%  191K 5s
+   300K ........                                               62% 6.22K=1.6s
+
+2020-05-14 19:42:09 (11.2 KB/s) - Read error at byte 315414/501404 (Success). Retrying.
+
+--2020-05-14 19:42:19--  (try:12)  https://dl.fbaipublicfiles.com/fairseq/data/wmt16.en-de.joined-dict.newstest2014.tar.bz2
+Connecting to dl.fbaipublicfiles.com (dl.fbaipublicfiles.com)|104.22.75.142|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 501404 (490K), 185990 (182K) remaining [application/x-bzip2]
+Saving to: ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’
+
+        [ skipping 300K ]
+   300K ,,,,,,,,.. .......... .......                          66% 8.94K=2.1s
+
+2020-05-14 19:57:22 (8.94 KB/s) - Read error at byte 334863/501404 (Success). Retrying.
+
+--2020-05-14 19:57:32--  (try:13)  https://dl.fbaipublicfiles.com/fairseq/data/wmt16.en-de.joined-dict.newstest2014.tar.bz2
+Connecting to dl.fbaipublicfiles.com (dl.fbaipublicfiles.com)|104.22.75.142|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 501404 (490K), 166541 (163K) remaining [application/x-bzip2]
+Saving to: ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’
+
+        [ skipping 300K ]
+   300K ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,... .......... .......... 71%  145  35m44s
+   350K .........                                              73% 36.5M=5m53s
+
+2020-05-14 20:18:25 (93.9 B/s) - Read error at byte 368002/501404 (Success). Retrying.
+
+--2020-05-14 20:18:35--  (try:14)  https://dl.fbaipublicfiles.com/fairseq/data/wmt16.en-de.joined-dict.newstest2014.tar.bz2
+Connecting to dl.fbaipublicfiles.com (dl.fbaipublicfiles.com)|104.22.75.142|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 501404 (490K), 133402 (130K) remaining [application/x-bzip2]
+Saving to: ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’
+
+        [ skipping 350K ]
+   350K ,,,,,,,,,. .......... .......... .......... .......... 81% 5.73K 19s
+   400K ....                                                   82%  182 =35s
+
+2020-05-14 20:34:11 (1.28 KB/s) - Read error at byte 414451/501404 (Success). Retrying.
+
+--2020-05-14 20:34:21--  (try:15)  https://dl.fbaipublicfiles.com/fairseq/data/wmt16.en-de.joined-dict.newstest2014.tar.bz2
+Connecting to dl.fbaipublicfiles.com (dl.fbaipublicfiles.com)|104.22.75.142|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 501404 (490K), 86953 (85K) remaining [application/x-bzip2]
+Saving to: ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’
+
+        [ skipping 400K ]
+   400K ,,,,...... .......... .......... .......... .......... 91% 1.74K 25s
+   450K ......                                                 93% 82.0K=29s
+
+2020-05-14 20:49:50 (1.79 KB/s) - Read error at byte 467348/501404 (Success). Retrying.
+
+--2020-05-14 20:50:00--  (try:16)  https://dl.fbaipublicfiles.com/fairseq/data/wmt16.en-de.joined-dict.newstest2014.tar.bz2
+Connecting to dl.fbaipublicfiles.com (dl.fbaipublicfiles.com)|104.22.75.142|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 501404 (490K), 34056 (33K) remaining [application/x-bzip2]
+Saving to: ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’
+
+        [ skipping 450K ]
+   450K ,,,,,,.... .......... .......... .........            100% 1.92K=17s
+
+2020-05-14 20:50:19 (1.92 KB/s) - ‘wmt16.en-de.joined-dict.newstest2014.tar.bz2’ saved [501404/501404]
+

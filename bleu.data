@@ -1,0 +1,65 @@
+full precision 
+2020-05-18 12:02:57 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.93, 68.3/42.8/28.8/19.7 (BP=0.973, ratio=0.974, syslen=127725, reflen=131161)
+one layer - 8 bits 
+2020-05-18 14:00:59 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.93, 68.3/42.8/28.8/19.7 (BP=0.973, ratio=0.974, syslen=127707, reflen=131161)
+one layer - 3 bits 
+2020-05-18 14:09:23 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.66, 67.9/42.4/28.4/19.4 (BP=0.977, ratio=0.977, syslen=128183, reflen=131161)
+
+
+Baseline - FP
+2020-05-18 12:02:57 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.93, 68.3/42.8/28.8/19.7 (BP=0.973, ratio=0.974, syslen=127725, reflen=131161)
+all layers - 8 bits
+2020-05-19 00:37:52 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.89, 68.2/42.7/28.7/19.7 (BP=0.974, ratio=0.974, syslen=127807, reflen=131161)
+all layers - 7 bits 
+2020-05-19 00:43:10 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.79, 68.1/42.6/28.6/19.5 (BP=0.975, ratio=0.975, syslen=127908, reflen=131161)
+all layers - 6 bits 
+2020-05-19 00:49:38 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.39, 67.7/42.1/28.1/19.2 (BP=0.976, ratio=0.977, syslen=128093, reflen=131161)
+all layers - 5 bits 
+2020-05-19 00:58:32 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 32.74, 66.0/39.9/26.2/17.5 (BP=0.987, ratio=0.988, syslen=129526, reflen=131161)
+all layers - 4 bits 
+2020-05-19 02:12:13 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 3.20, 12.9/4.8/2.0/0.9 (BP=1.000, ratio=2.336, syslen=306429, reflen=131161)
+
+plain  - 8 bits - best   - FP 
+2020-05-19 00:37:52 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.89, 68.2/42.7/28.7/19.7 (BP=0.974, ratio=0.974, syslen=127807, reflen=131161)
+lambda_q = 2
+sinreq - 8 bits - ckpt60 - FP
+2020-05-20 13:44:59 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.60, 68.2/42.5/28.5/19.5 (BP=0.971, ratio=0.971, syslen=127386, reflen=131161)
+sinreq - 8 bits - ckpt59 - FP 
+2020-05-20 13:51:45 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.62, 68.5/42.8/28.8/19.7 (BP=0.964, ratio=0.965, syslen=126520, reflen=131161)
+sinreq - 8 bits - ckpt59 
+2020-05-20 14:00:12 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.30, 69.1/43.2/28.9/19.8 (BP=0.949, ratio=0.950, syslen=124629, reflen=131161)
+
+lambda_q = 4
+sinreq - 8 bits - ckpt56 - FP
+2020-05-21 07:03:48 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.61, 68.2/42.6/28.6/19.5 (BP=0.970, ratio=0.970, syslen=127276, reflen=131161)
+sinreq - 8 bits - ckpt57 - FP
+2020-05-21 06:54:56 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.81, 68.2/42.6/28.6/19.6 (BP=0.974, ratio=0.974, syslen=127805, reflen=131161)
+sinreq - 8 bits - ckpt58 - FP
+
+2020-05-21 07:19:04 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.30, 69.1/43.2/28.9/19.8 (BP=0.949, ratio=0.950, syslen=124629, reflen=131161)
+2020-05-21 07:10:44 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.62, 68.5/42.8/28.8/19.7 (BP=0.964, ratio=0.965, syslen=126520, reflen=131161)
+
+
+plain  - 6bits - best   - FP 
+2020-05-19 00:49:38 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.39, 67.7/42.1/28.1/19.2 (BP=0.976, ratio=0.977, syslen=128093, reflen=131161)
+sinreq - 6bits - ckpt59 - FP
+2020-05-20 13:09:21 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.77, 68.7/43.2/29.1/20.0 (BP=0.960, ratio=0.960, syslen=125964, reflen=131161)
+sinreq - 6bits - ckpt59 
+2020-05-20 13:15:18 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.42, 68.3/42.7/28.7/19.6 (BP=0.961, ratio=0.962, syslen=126186, reflen=131161)
+sinreq - 6bits - ckpt58 
+2020-05-20 13:20:53 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 34.10, 68.6/42.7/28.6/19.5 (BP=0.953, ratio=0.954, syslen=125127, reflen=131161)
+
+sinreq - 5bits - ckpt63
+2020-05-20 10:22:10 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 29.10, 64.8/37.7/23.8/15.4 (BP=0.946, ratio=0.948, syslen=124311, reflen=131161)
+sinreq - 5bits - ckpt60
+2020-05-20 10:29:35 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 31.15, 65.7/39.1/25.2/16.7 (BP=0.967, ratio=0.967, syslen=126893, reflen=131161)
+
+
+---------------------------------------------------------------
+WMT14
+
+2020-05-19 06:12:09 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 40.83, 67.5/46.9/34.4/25.5 (BP=1.000, ratio=1.006, syslen=83262, reflen=82787)
+2020-05-19 06:21:52 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 40.62, 67.6/46.7/34.1/25.3 (BP=1.000, ratio=1.005, syslen=83184, reflen=82787)
+2020-05-19 06:28:28 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 40.42, 67.4/46.5/33.9/25.1 (BP=1.000, ratio=1.004, syslen=83146, reflen=82787)
+2020-05-19 06:36:04 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 38.40, 66.3/44.6/31.9/23.2 (BP=0.998, ratio=0.998, syslen=82632, reflen=82787)
+2020-05-19 06:49:22 | INFO | fairseq_cli.generate | Generate test with beam=5: BLEU4 = 2.29, 12.5/3.6/1.3/0.5 (BP=1.000, ratio=2.157, syslen=178550, reflen=82787)
