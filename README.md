@@ -4,7 +4,7 @@
 WaveQ is a sinusoidal-based quantization-aware regularization method. Adding our parametrized sinusoidal regularizer enables us to not only find the quantized weights but also learn the bitwidth of the layers by making the period of the sinusoidal regularizer a trainable parameter. Here, we release the PyTorch implementation for WaveQ.
 
 WaveQ Framework overview:
-![overview](https://hanruiwang.me/project_pages/hat/assets/overview.jpg)
+![overview](Regularizer.png)
 
 ## Usage
  
